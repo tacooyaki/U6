@@ -33,6 +33,9 @@ gem 'devise'
 
 gem 'sassc', '~> 2.0'
 
+#For CSS
+gem 'bulma-rails'
+
 
 
 # Use Redis adapter to run Action Cable in production
